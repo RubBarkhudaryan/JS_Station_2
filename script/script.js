@@ -70,10 +70,3 @@ function search_() {
         alert("Insert keyword for search");
     }
 }
-
-
-
-
-// let keyword = {
-//     value: "mojito"
-// };
